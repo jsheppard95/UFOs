@@ -1,2 +1,2 @@
 # UFOs
-Javascript files for visualization of UFO sighting data.
+JavaScript files for visualization of UFO sighting data.

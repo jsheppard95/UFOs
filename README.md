@@ -1,5 +1,5 @@
 # UFOs
-HTML and JavaScript for display and filtering of UFO sighting data.
+JavaScript and HTML files for display and filtering of UFO sighting data.
 
 ## Overview of the Project
 This project includes a webpage to display and filter reports of UFO sightings

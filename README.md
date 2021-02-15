@@ -21,7 +21,7 @@ inputs, and build the resulting tables.
 
 ## Results
 ### [UFO Finder](https://jsheppard95.github.io/UFOs/index.html)
-The link above opens to following home page:
+The link above opens to the following home page:
 
 ![UFO Finder](static/images/UFO-Finder.png)
 

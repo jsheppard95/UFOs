@@ -40,7 +40,7 @@ We thus have a functional webpage to filter and display UFO sightings
 contained in [data.js](static/js/data.js). One drawback to these additional
 filters however is we have increased clutter below the page's title and
 description paragraph. This could be improved with additional formatting
-constraints in [style.css](static/css/style.css) such as uniform column
-spacing for the "Filter Search" section. Another possible improvement could be
-to add tooltips to the search criteria so that as filters are
-entered, the page could display possible options that give matching results.
+constraints such as uniform column spacing for the "Filter Search" section.
+Another possible improvement could be to add tooltips to the search criteria
+so that as filters are entered, the page could display possible options that
+give matching results.

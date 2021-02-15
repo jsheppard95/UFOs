@@ -8,7 +8,7 @@ JavaScript object `data` with keys `datetime`, `city`, `state`, `country`,
 `shape`, `durationMinutes`, and `comments`. In addition, this repository
 includes [index.html](index.html) leveraging Bootsrap CSS and our custom
 [style.css](static/css/style.css) to create the layout and
-[app.js](static/js/app/js) to read the input data, filter according to user
+[app.js](static/js/app.js) to read the input data, filter according to user
 inputs, and build the resulting tables.
 
 ### Resources
